@@ -1,0 +1,2 @@
+-keep class com.example.marvel_app.BuildConfig { *; }
+-keep class androidx.lifecycle.DefaultLifecycleObserver
